@@ -1,0 +1,49 @@
+- artifact: org.jetbrains.kotlin:kotlin-stdlib:+
+  name: org.jetbrains.kotlin:kotlin-stdlib
+  copyrightHolder: jetbrains, Inc.
+  license: The Apache License, Version 2.0
+  licenseUrl: http://www.apache.org/licenses/LICENSE-2.0.txt
+  url: https://kotlinlang.org/
+- artifact: com.crashlytics.sdk.android:crashlytics:+
+  name: Android SDK Crashlytics
+  copyrightHolder: crashlytics, Inc.
+  license: Crashlytics Terms of Service
+  licenseUrl: http://try.crashlytics.com/terms/terms-of-service.pdf
+- artifact: com.crashlytics.sdk.android:crashlytics-core:+
+  name: Android SDK Crashlytics Core
+  copyrightHolder: crashlytics, Inc.
+  license: Crashlytics Terms of Service
+  licenseUrl: http://try.crashlytics.com/terms/terms-of-service.pdf
+- artifact: com.crashlytics.sdk.android:answers:+
+  name: Android SDK Answers
+  copyrightHolder: crashlytics, Inc.
+  license: Answers Terms of Service
+  licenseUrl: https://answers.io/terms
+- artifact: com.crashlytics.sdk.android:beta:+
+  name: Android SDK for Beta
+  copyrightHolder: crashlytics, Inc.
+  license: Crashlytics Terms of Service
+  licenseUrl: http://try.crashlytics.com/terms/terms-of-service.pdf
+- artifact: io.fabric.sdk.android:fabric:+
+  name: Android SDK Fabric
+  copyrightHolder: fabric, Inc.
+  license: Fabric Software and Services Agreement
+  licenseUrl: https://fabric.io/terms
+- artifact: org.jetbrains.kotlin:kotlin-android-extensions-runtime:+
+  name: org.jetbrains.kotlin:kotlin-android-extensions-runtime
+  copyrightHolder: jetbrains, Inc.
+  license: The Apache License, Version 2.0
+  licenseUrl: http://www.apache.org/licenses/LICENSE-2.0.txt
+  url: https://kotlinlang.org/
+- artifact: org.jetbrains.kotlin:kotlin-stdlib-common:+
+  name: org.jetbrains.kotlin:kotlin-stdlib-common
+  copyrightHolder: jetbrains, Inc.
+  license: The Apache License, Version 2.0
+  licenseUrl: http://www.apache.org/licenses/LICENSE-2.0.txt
+  url: https://kotlinlang.org/
+- artifact: org.jetbrains:annotations:+
+  name: IntelliJ IDEA Annotations
+  copyrightHolder: jetbrains, Inc.
+  license: The Apache Software License, Version 2.0
+  licenseUrl: http://www.apache.org/licenses/LICENSE-2.0.txt
+  url: http://www.jetbrains.org
